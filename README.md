@@ -9,6 +9,7 @@
 
 ## Usage
 
+ python script is above
  Execute the `parse` python script using `python3 parse.py`
 
 [Link to Download result CSV](https://steeleye-assessment.s3.ap-south-1.amazonaws.com/result.csv)
