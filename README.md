@@ -2,9 +2,9 @@
 
 ## Requirements Met
 
- Downloading and Extracting XML (completely automated)
+ Downloading the CSV file by Extracting XML file given
  Converting XML to CSV with required headers.
- Required CSV stored on S3 bucket (link above).
+ Required CSV stored on S3 bucket (link below).
  Follows PEP8 guidelines and has pydoc with type hints.
 
 ## Usage
